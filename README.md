@@ -31,8 +31,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
 # How to run
-✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.
-✅ Open http://localhost:8080/shopping-cart/index.jsp with your browser to see the result.
+✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.<br>
+✅ Open http://localhost:8080/ with your browser to see the result.
 
 
 Run the project
