@@ -33,6 +33,7 @@
 # How to run
 ✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.<br>
 ✅ Open http://localhost:8080/shopping-cart/index.jsp with your browser to see the result.
+✅ Note:- The above link will only work when this project is connected with Apache Tomcat server.
 
 # License
 This project is under <a href="https://github.com/ValentineFernandes/eShop-Website/blob/main/LICENSE">MIT</a> license.
