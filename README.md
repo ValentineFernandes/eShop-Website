@@ -2,6 +2,17 @@
 ✅ This is an e-commerce website to buy clothes online.<br>
 ✅ This is a Maven project.
 
+# Home Page (index.jsp)
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg" height="500px">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
+
+# Cart Page (cart.jsp)
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop5.jpg" width="2000px">
+
+# Login Page (login.jsp)
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop6.jpg" width="2000px">
+
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
