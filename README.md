@@ -3,7 +3,7 @@
 ✅ This is a Maven project.
 
 # Home Page (index.jsp)
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg" height="500px">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg">
 <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
 <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
 
