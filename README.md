@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-FFF600?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JDBC-FF5733?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-FF0000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
