@@ -34,7 +34,5 @@
 ✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.<br>
 ✅ Run the project.
 
-
-Run the project
 # License
 This project is under <a href="https://github.com/ValentineFernandes/eShop-Website/blob/main/LICENSE">MIT</a> license.
