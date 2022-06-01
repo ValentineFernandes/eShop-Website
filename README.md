@@ -32,7 +32,7 @@
 
 # How to run
 ✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.<br>
-✅ Open http://localhost:8080/ with your browser to see the result.
+✅ Run the project.
 
 
 Run the project
