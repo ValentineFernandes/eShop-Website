@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-FF0000?style=for-the-badge&logo=java&logoColor=white">
 
-# 👩‍💻 IDE
+# 👨🏻‍💻 IDE
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
