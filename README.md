@@ -27,27 +27,24 @@
 </a>
 </sub>
 </div>
- 
 
 
+<h1 align="center">Home Page (index.jsp)</h1>
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
+
+<h1 align="center">Cart Page (cart.jsp)</h1>
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop5.jpg" width="2000px">
+
+<h1 align="center">Login Page (login.jsp)</h1>
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop6.jpg" width="2000px">
 
 # 📝 Features
 
 ✅ It is a Java Maven Project </br>
 ✅ It’s a dynamic web application where Users/Customers can view and buy the product <br>
 ✅ It has a cart page where users can add their products to the cart and place an order 
-
-
-# Home Page (index.jsp)
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
-
-# Cart Page (cart.jsp)
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop5.jpg" width="2000px">
-
-# Login Page (login.jsp)
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop6.jpg" width="2000px">
 
 # 👩‍💻 Languages
 
