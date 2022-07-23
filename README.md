@@ -1,6 +1,6 @@
 <h1 align="center">e-Shop Website</h1>
 
-<p align="center"> 
+<p align="center">  
 <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
        <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-FF6347?style=flat&logo=Linkedin&logoColor=white" />
    </a>
